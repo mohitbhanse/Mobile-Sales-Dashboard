@@ -98,17 +98,6 @@ Compares Total Sales and Same Period Last Year Sales by Year, Quarter, and Month
 
 Enables year-over-year growth analysis.
 
-🖼️
-
-📊 Key Insights
-
-📌 Highest sales achieved by Apple and OnePlus brands.
-
-💳 Most preferred payment method: UPI and Credit Card.
-
-🌆 Top-performing cities: Mumbai, Delhi, and Bangalore.
-
-📅 Steady MTD growth observed till mid-2024 with seasonal sales peaks.
 
 
 💻 How to Run
