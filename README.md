@@ -100,13 +100,6 @@ Enables year-over-year growth analysis.
 
 
 
-💻 How to Run
-
-Clone this repository:
-
-git clone https://github.com/Mohit_bhanse/Mobile-Sales-Dashboard.git
-
-
 Open the .pbix file in Power BI Desktop.
 
 Refresh data connections if required.
